@@ -1,0 +1,33 @@
+@import '~dropzone/dist/min/dropzone.min.css';
+
+.dropzone {
+  margin-bottom: 20px;
+  min-height: auto;
+}
+
+.file-item {
+  list-style: none;
+}
+
+form label {
+  font-weight: bold;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.rangeSpan {
+  display: block;
+  width: 100%;
+  height: inherit;
+  position: relative;
+  top: -26px;
+  left: 21px;
+  line-height: 32px;
+}
+
+form .float-right {
+  position: relative;
+  top: -45px;
+}
