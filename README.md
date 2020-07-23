@@ -7,73 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+<p align="center"><img src="https://s278iva.storage.yandex.net/rdisk/23550337fcf25afc5a7bf1ccd32e0f843d9e63279a0ef749434da327cd036f0e/5f19fd88/tGknQa6qQZxO3RHkP5IXN_TWCxkCXiy57HJOYNh1Jd3-wqyFaBrhpbY-kSO4el2007dvnnpPpaSwi6p4pmfPdg==?uid=322305735&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+%D0%BE%D1%82+2020-07-23+19-30-37.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=322305735&media_type=image&hid=b291842831e95c249292e994d485204b&etag=b51fd72d39b7107fcd4ddc88be3973bd&fsize=66508&rtoken=eLzftyjBqrXA&force_default=yes&ycrid=na-62e3b7b5a3916b2614660eb3d103e433-downloader16e&ts=5ab2254d47200&s=1539389829b309fb48124c59a08011aef0ebc5b8993ed92f3acec8a1e36de527&pb=U2FsdGVkX18QnBslTeo9Bt48gqeEUiS3SAQWdYTUwiW7sQjnTg9OI9NChwS648um7QtitRA-_8goD2upoqurJEg2NHkzkuDvPkpg1v9v3Fs" width="1000"></p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<p align="center"><img src="https://s355sas.storage.yandex.net/rdisk/204c2bb79dc49d28680dd4635b207e94feaf400403c6861da0a4cd5c5b7b59fe/5f19fda4/tGknQa6qQZxO3RHkP5IXNwTr4WBL242lBbJgfmvuLEYQo3_GFptPMwm6j95zEljWIyHRODzOdA-BFd1B3QKhQQ==?uid=322305735&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+%D0%BE%D1%82+2020-07-23+19-35-12.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=322305735&fsize=39913&etag=e0593fc6aef62ceaa64d9aa55014f872&media_type=image&hid=7151b4b924330fedf54b97304bf5b84a&rtoken=NIHlvhN0kBbH&force_default=yes&ycrid=na-a602ac42eb469698e47d394e5a4eb5fe-downloader16e&ts=5ab22567fb100&s=1c649949ea7386241e935fbb812981f53ec0066d7a7f385821034af95bf351f8&pb=U2FsdGVkX19tO7GGgaxwYWXKRnRfq7ov74hTJmzLf7KP5KMQQ8bKrctQMaU5KW81zEJ0oMQgXKuf0PFDi1_PHc3X9a-l_NCaZC_-_PgsVDc" width="1000"></p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<p align="center"><img src="https://s282vla.storage.yandex.net/rdisk/981cc2b91d2bba9dbffb0d71866a332588a3a09407d416713dfad04c8ab16460/5f19fe45/tGknQa6qQZxO3RHkP5IXN5-M4M8GA6VBajQzROOneJvYtkSOCLAj8djHnCtIa8AkcFZPg51SmIYq1TWw8rrnmA==?uid=322305735&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+%D0%BE%D1%82+2020-07-23+20-15-48.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=322305735&fsize=50076&media_type=image&etag=5832d019074ac55b1fd7d4672e066a82&hid=734e29c500169daa817822626f14e966&rtoken=Inc6EYpoYyDl&force_default=yes&ycrid=na-8d160ff2872ea283ed0b7251caef035c-downloader16e&ts=5ab2260091900&s=acb926a00f8120d2aef6fa4f55a2c7cb9b354f1f79ef610bff5e7e9472c64a0d&pb=U2FsdGVkX19FVemCygU4uO0e-kpMsxsZLWWkj1EzG_BrufngsdLwuV3mpszlh3AQdilkqhaRRqp-3KI9gG8yGQmo2RVANLOEakWk32h4dxw" width="1000"></p>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<p align="center"><img src="https://s693sas.storage.yandex.net/rdisk/8173cd5e382e484b5e0dfdaef63760b144e07343a4b832b4e949304cb29b00ec/5f19fe6e/tGknQa6qQZxO3RHkP5IXN3o-IOJ6tdli8-RNIJ_Hy1O7u4WQuKIpO0GLIP81ledQhZI2TRJjEhUhKCejYFc89w==?uid=322305735&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+%D0%BE%D1%82+2020-07-23+19-37-05.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=322305735&fsize=45995&media_type=image&etag=dc53bd42e25abc1e186c9db4796eeae2&hid=95b7f74f2f165fdd437d7692ee4e956c&rtoken=XDtjwnrC08bX&force_default=yes&ycrid=na-5cc02f1c306347fe486de5d5084bd7c3-downloader16e&ts=5ab22627ab540&s=d9987ea25c38c156317a535fa3bbd475bdcec9337dd1e5cab5a77b52cf68f4f3&pb=U2FsdGVkX1_DDhFXeRwX8YdYuDHW_AC5ZXfj1fYZqZo0Sr9zECyJ4A4k4ryEiA1KC28FDhnca7VkijjAmEjQLLjWoIupGCBLZ89g9DEK-nw" width="1000"></p>
 
-## Learning Laravel
+<p align="center"><img src="https://s42vla.storage.yandex.net/rdisk/2294207e675bf61769eb46f0ee1c0b3cdb9fee3ecdc6e741dc55dc94d672ce44/5f19fe8d/tGknQa6qQZxO3RHkP5IXN2SuZajCzqrtDs4Lm-ZceBAt8VlDKTOg74HQy7QwlwaPm4JGZTGyE29euTenLAS4Kg==?uid=322305735&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+%D0%BE%D1%82+2020-07-23+19-32-56.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=322305735&etag=b5f34b23f339fec7021b45454fb29f2a&media_type=image&fsize=55401&hid=b85bc45653184f33764991270e6933d8&rtoken=H3HkUounWu4Y&force_default=yes&ycrid=na-b2a1fc3cc0ee912428a5ab2130ca52b2-downloader16e&ts=5ab226453bb00&s=c04a68bdcb25efbd113c2564bd090875277d3159059cbd62730acde8d536b8bb&pb=U2FsdGVkX18VE9ELllNfzS6E3JDS8XSzRqvytuH4I8w3l1dSbeqxO43W08cjJtQWeWqYvSmc3rB4K3hccWwa8fAqqejzrqKYwrenTeNxb6k" width="1000"></p>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<p align="center"><img src="https://s330sas.storage.yandex.net/rdisk/d59d8a6950c59cd74042da4e6425a646685411b41676d0b3e4b1eac1cdc5c8d4/5f19feaa/tGknQa6qQZxO3RHkP5IXN0ivfSN17gJIQ18ZTf9JysfhfMaltSz1JVcFWyl_okJnTKPAfvRKqjcpuesykUqvAQ==?uid=322305735&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+%D0%BE%D1%82+2020-07-23+19-33-22.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=322305735&hid=67536a19cdd311f285e8263b8a0feda9&etag=59522703ae2dd44183c60a4c98cd5e81&media_type=image&fsize=34607&rtoken=jqKfXRPsx6P5&force_default=yes&ycrid=na-b79646f614fd536631bcb464b1b3f927-downloader16e&ts=5ab22661d7e80&s=a025b3d10513473cf43ee96048bad1f44d2e56e4f66a519b8cc9fc041d377fce&pb=U2FsdGVkX1-_JSBSxrDlZy3SGyO2MLN5Bc-y8R-mItpcq4YedlBZ35RZ1PxebrMT4GMrYxjTStyuiLMJyvVbZGs03npQxxs-TD14dAYEn_k" width="1000"></p>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
-- [云软科技](http://www.yunruan.ltd/)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p align="center"><img src="https://s256vla.storage.yandex.net/rdisk/9946d9c87ade231498d2f860ab1d376b0064c25cf8246f8aa233f633d56956b3/5f19febb/tGknQa6qQZxO3RHkP5IXN6wFE6kE56J50okFxctikWOD0YjhIzzCHznrn25ha1SEK6wf8Xk_5zYK5XROldLvFA==?uid=322305735&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+%D0%BE%D1%82+2020-07-23+19-33-02.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=322305735&media_type=image&fsize=52676&hid=d4328a8f4a3c7e454d61847cbcc9f902&etag=12724ac328a5a784ba6879d00a9041ef&rtoken=ctC6BGGWlSEW&force_default=yes&ycrid=na-88c992cb9ac8b98d1989e17aa7247591-downloader16e&ts=5ab226711a280&s=de834f960a34f8427151f0108cc9a82539f66b50bce2dbe5a627e4247b0de258&pb=U2FsdGVkX1_G7yEmJoYxCaFOzC987jh7Okv4qFu5l4txXBozOzlrEPtQf7t4W5U_Am8f1aEibcK5qf5IOZpXrEW7gWR1lHReE_pgO5e8_OI" width="1000"></p>
